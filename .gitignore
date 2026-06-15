@@ -1,0 +1,3 @@
+/verdiff
+*.html
+/internal/verdiff/gitdiff/testdata/test-repo/
